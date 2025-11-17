@@ -11,6 +11,8 @@ It is not intended for production use, but rather as an exercise and personal pr
 - `himom.sh` — Command guidance tool.
 - `kaka.sh` — Interactive welcome script.
 - `mishuu.sh` — Directory listing utility.
+- `error.js` — Error showing in teh JS Console (not complex)
+- -`.oops.sh` — Error showing in WSL, Git Bash, Linux, etc... (in bash)
 
 ## Purpose
 
@@ -36,6 +38,7 @@ chmod +x script_name.sh
 ---
 
 **Created by @mishu for learning.** bye, nice day!
+
                            ╱|、
                           (˚ˎ 。7  
                            |、˜〵          
