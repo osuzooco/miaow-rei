@@ -1,13 +1,11 @@
-repositories:
-  - name: pokeapi
+repo:
+  - name: miaow-rei
     owner: osuzooco
-    repo_id: 1098529626
-    release: 1.0
-    description: ""
+    repo_id: 1098423920
+    description: "This is a example and practice for my CLI habllities, and Bash."
     languages:
       - name: Shell
-        percent: 63.8
-      - name: Python
-        percent: 36.2
-    framework: None
-    platform: Windows
+        percent: 93.4
+      - name: JavaScript
+        percent: 6.6
+ 
